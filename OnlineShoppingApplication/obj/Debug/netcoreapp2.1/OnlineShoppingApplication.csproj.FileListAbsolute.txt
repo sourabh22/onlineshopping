@@ -1,0 +1,81 @@
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.deps.json
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.runtimeconfig.json
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.runtimeconfig.dev.json
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.dll
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.pdb
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.dll
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.pdb
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csprojAssemblyReference.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csproj.CoreCompileInputs.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorAssemblyInfo.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorAssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.AssemblyInfoInputs.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.AssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.TagHelpers.input.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.TagHelpers.output.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorCoreGenerate.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorTargetAssemblyInfo.cache
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorTargetAssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.pdb
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.dll
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.pdb
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csproj.CopyComplete
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\signup.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\SignUpSucecss.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\LoginSuccessFull.g.cshtml.cs
+D:\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csprojAssemblyReference.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorAssemblyInfo.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorAssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.AssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.TagHelpers.input.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.TagHelpers.output.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorCoreGenerate.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Authenticate.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\LoginSuccessFull.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\signup.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Admin\SignUpSucecss.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Product\GetProducts.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Search\Search.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.deps.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.runtimeconfig.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.runtimeconfig.dev.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\OnlineShoppingApplication.csproj.CopyComplete
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProductCart.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Product\ProcessOrder.g.cshtml.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ErrorView.g.cshtml.cs

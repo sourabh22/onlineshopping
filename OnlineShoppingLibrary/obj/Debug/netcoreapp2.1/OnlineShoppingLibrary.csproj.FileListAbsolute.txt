@@ -1,0 +1,18 @@
+D:\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.deps.json
+D:\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csprojAssemblyReference.cache
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csproj.CoreCompileInputs.cache
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfoInputs.cache
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.deps.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfoInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csprojAssemblyReference.cache

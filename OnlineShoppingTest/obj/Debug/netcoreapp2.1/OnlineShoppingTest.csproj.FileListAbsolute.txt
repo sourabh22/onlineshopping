@@ -1,0 +1,14 @@
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.deps.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.runtimeconfig.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.runtimeconfig.dev.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.csprojAssemblyReference.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.csproj.CoreCompileInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.AssemblyInfoInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.AssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.pdb

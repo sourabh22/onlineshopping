@@ -1,0 +1,34 @@
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.deps.json
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.json
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.dev.json
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csprojAssemblyReference.cache
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CoreCompileInputs.cache
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cache
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfoInputs.cache
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfo.cs
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorTargetAssemblyInfo.cache
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CopyComplete
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.deps.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.dev.json
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csprojAssemblyReference.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CoreCompileInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfoInputs.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfo.cs
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorTargetAssemblyInfo.cache
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CopyComplete
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
