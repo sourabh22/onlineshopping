@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OnlineShoppingService.Controllers;
-using OnlineShoppingService.Models.DB;
+using OnlineShoppingServices.Models.DB;
 
 namespace OnlineShoppingTests
 {
