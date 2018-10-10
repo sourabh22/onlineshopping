@@ -32,3 +32,20 @@ C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\De
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CopyComplete
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.dll
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.deps.json
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.json
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.runtimeconfig.dev.json
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\GitOnlineShopping\OnlineShoppingServices\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csprojAssemblyReference.cache
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CoreCompileInputs.cache
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cache
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorAssemblyInfo.cs
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfoInputs.cache
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.AssemblyInfo.cs
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.RazorTargetAssemblyInfo.cache
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.csproj.CopyComplete
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\GitOnlineShopping\OnlineShoppingServices\obj\Debug\netcoreapp2.1\OnlineShoppingServices.pdb

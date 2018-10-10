@@ -12,3 +12,26 @@ C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.AssemblyInfo.cs
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.dll
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.deps.json
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.runtimeconfig.json
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.runtimeconfig.dev.json
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingTest.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.csprojAssemblyReference.cache
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.csproj.CoreCompileInputs.cache
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.AssemblyInfoInputs.cache
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.AssemblyInfo.cs
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.dll
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.Views.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingServices.dll
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingApplication.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\bin\Debug\netcoreapp2.1\OnlineShoppingServices.pdb
+D:\GitOnlineShopping\OnlineShoppingTest\obj\Debug\netcoreapp2.1\OnlineShoppingTest.csproj.CopyComplete

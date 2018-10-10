@@ -20,7 +20,7 @@ namespace OnlineShoppingApplication.Controllers
     {
             searchService = new SearchService();
     }
-        [ErrorFilter]
+       
         public IActionResult GetProducts(SubCategory subCategory)
         {
             searchService.context = HttpContext;
@@ -35,7 +35,7 @@ namespace OnlineShoppingApplication.Controllers
             ViewData["products"] = model;
             return View();
         }
-        [ErrorFilter]
+        
         [HttpPost]
             public IActionResult AddToCart(ProductViewModel model)
             {
@@ -49,7 +49,7 @@ namespace OnlineShoppingApplication.Controllers
                
             }
 
-        [ErrorFilter]
+    
         public IActionResult ProductCart()
         {
             searchService.context = HttpContext;
@@ -58,7 +58,7 @@ namespace OnlineShoppingApplication.Controllers
             return View(result); 
         }
 
-        [ErrorFilter]
+        
         public IActionResult ProcessOrder(ProductViewModelCart[] products)
         {
             searchService.context = HttpContext;

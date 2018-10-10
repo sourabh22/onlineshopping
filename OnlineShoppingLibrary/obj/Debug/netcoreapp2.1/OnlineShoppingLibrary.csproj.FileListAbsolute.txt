@@ -16,3 +16,14 @@ C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Deb
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
 C:\Users\Training\Videos\New folder\OnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csprojAssemblyReference.cache
+D:\GitOnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.deps.json
+D:\GitOnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\GitOnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csprojAssemblyReference.cache
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.csproj.CoreCompileInputs.cache
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfoInputs.cache
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.AssemblyInfo.cs
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.dll
+D:\GitOnlineShopping\OnlineShoppingLibrary\obj\Debug\netcoreapp2.1\OnlineShoppingLibrary.pdb
+D:\GitOnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.runtimeconfig.json
+D:\GitOnlineShopping\OnlineShoppingLibrary\bin\Debug\netcoreapp2.1\OnlineShoppingLibrary.runtimeconfig.dev.json

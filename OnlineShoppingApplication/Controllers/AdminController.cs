@@ -1,9 +1,11 @@
 ﻿
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using OnlineShoppingApplication.Models;
 using OnlineShoppingLibrary;
 using OnlineShoppingServices.Models;
@@ -17,18 +19,34 @@ namespace OnlineShoppingApplication.Controllers
     {
 
         AdminService service;
-        public AdminController()
+        ILogger<AdminController> log;
+        public AdminController(ILogger<AdminController> log)
         {
             service = new AdminService();
+            this.log = log;
         }
+
         public IActionResult Index()
         {
+
             return View();
         }
         [ErrorFilter]
         [HttpGet]
         public ActionResult Signup()
         {
+            try
+            {
+                log.LogInformation("Executing GetProducts Method..");
+                    log.LogInformation("This is a Test Message");
+
+                }
+            catch(Exception exception)
+            {
+                log.LogCritical("error message ,e.g, DO NOT DIVIDE BY ZERO......................"); // In catch block
+                log.LogInformation("Executed GetProducts Method..");
+
+            }
             return View();
         }
 
